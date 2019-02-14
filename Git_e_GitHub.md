@@ -19,6 +19,10 @@ crie uma nova pasta, abra-a e execute o comando
 `git init`  
 para criar um novo repositório.
 
+
+## Visite o GitHub Education
+E siga o primeiro exercicio
+https://education.github.com/teachers/advisors#complete-the-training
 ## obtenha um repositório
 
 crie uma cópia de trabalho em um repositório local executando o comando  
